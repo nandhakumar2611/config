@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Indian Bank loans related prod APIs "
+  contactDetails:
+    name: "Nandha Kumar QA - Product Owner"
+    email: "unandhakumar2000@gmail.com"
+  onCallSupport:
+    - +91 98745 61236
+    - +91 98745 61236
